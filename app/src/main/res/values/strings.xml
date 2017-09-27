@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P1:Popular Movies</string>
+    <string name="action_settings">Sort Movies</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="pref_sorting_criteria_key">sorting_criteria</string>
+    <string name="pref_sorting_order_key">sorting_order</string>
+    <string name="pref_sorting_order_default_value">desc</string>
+    <string name="pref_sorting_criteria_default_value">popularity</string>
+    <string name="content_authority">manisha.p1popularmovies</string>
+    <string name="toast_crash">Something went wrong :( But no worries, a report has been sent to help fix the issue.</string>
+</resources>
